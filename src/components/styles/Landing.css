@@ -1,0 +1,56 @@
+.Landing-text {
+  font-family: "Pacifico";
+  left: 15%;
+  top: 30%;
+  position: absolute;
+}
+.Landing-slogan {
+  font-family: "Montserrat";
+  position: absolute;
+  left: 25%;
+  top: 40%;
+  font-size: 1em;
+  font-weight: bolder;
+}
+.Brand-text {
+  font-family: "Pacifico";
+}
+.Button-group {
+  position: relative;
+
+  top: 20%;
+}
+.Landing-image {
+  top: 10px;
+  position: relative;
+  left: 40%;
+}
+
+.Navbar-items {
+  font-family: Pacifico;
+  color: whitesmoke;
+}
+.Navbar-items:hover {
+  color: whitesmoke;
+}
+.buttons {
+  position: relative;
+
+  top: 40px;
+}
+.back {
+  height: 10%;
+}
+.aboutme-text {
+  position: relative;
+  top: 30px;
+  text-align: center;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.connectbuttons{
+    padding: 15px;
+}
