@@ -23,7 +23,8 @@
 .Landing-image {
   top: 10px;
   position: relative;
-  left: 40%;
+  padding-left: 40%;
+  padding-right: 60%;
 }
 
 .Navbar-items {
@@ -53,4 +54,15 @@ a {
 
 .connectbuttons{
     padding: 15px;
+}
+/* * {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+} */
+
+.footer{
+    padding-top: 10%;
+    text-align: center;
+    padding-bottom: 5px;
 }
